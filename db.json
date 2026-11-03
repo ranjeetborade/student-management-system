@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Rahul",
+      "email": "rahul@gmail.com",
+      "course": "JavaScript"
+    },
+    {
+      "id": 2,
+      "name": "Amit",
+      "email": "amit@gmail.com",
+      "course": "Python"
+    },
+    {
+      "id": 3,
+      "name": "Ranjeet Kadam",
+      "email": "ranjeetkadam1000@gmail.com",
+      "course": "Java"
+    },
+    {
+      "id": 4,
+      "name": "Ram",
+      "email": "ram100@gmail.com",
+      "course": "Python"
+    },
+    {
+      "name": "Priyal",
+      "email": "Priyal@gmail.com",
+      "course": "Python",
+      "id": 5
+    }
+  ]
+}
